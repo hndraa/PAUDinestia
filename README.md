@@ -2,4 +2,4 @@
 HALLO, SELAMAT MENCOBA
 
 ``` python
-aaaaaaa
+X_test = (X_test - X_train.mean()) / X_train.std()
