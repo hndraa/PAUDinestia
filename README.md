@@ -1,8 +1,8 @@
 # JUDUL PROJECT PCD
 ## Nama Anggota
-### : siA : F1D000000
-### : siB : F1D000000
-### : siC : F1D000000
+###  siA : F1D000000
+###  siB : F1D000000
+###  siC : F1D000000
 
 # Project Overview
 Pada project PCD ini, Anda akan melakukan experiment kalsifikasi dengan menggunakan dataset yang telah Anda siapkan sebelumnya. Hal ini bertujuan untuk :
