@@ -57,6 +57,16 @@ Output: Contoh Image Augmentation
 
 ## Preprocessing
 Selanjutnya, ini dia Tahap paling krusial Anda dapat melakukan teknik preprocessing yang Anda anggap perlu. Jelaskan alasan Anda menggunakan teknik tersebut, Anda wajib gunakan preprocessing yang ada pada modul-modul yang telah Anda pelajari sebelumnya pada praktikum. Jika Anda merasa preprocessig yang ada pada praktikum tidak sesuai maka silahkan diskusikan dengan Asisten masing" untuk mendapatkan pencerahan.
+``` python
+def prepro1():
+    pass
+
+def prepro2():
+    pass
+
+def prepro3():
+    pass
+```
 ## Feature Extraction
 Pada tahapan ini, Anda diminta untuk melakukan ekstraksi fitur dengan metode Gray Level Co-occurrence Matrix (GLCM). Dengan GLCM sudut 0, 45, 90, dan 135 derajat, simetris, dan lakukan uji coba dengan distance 1-5. Anda dapat menghitung nilai dari beberapa fitur berikut:
 
@@ -67,6 +77,10 @@ Pada tahapan ini, Anda diminta untuk melakukan ekstraksi fitur dengan metode Gra
 - Correlation
 - Entropy
 - ASM
+``` python
+def glcm(image, derajat):
+ ...........
+```
 
 ## Feature Selection
 Pada tahap ini, Anda diminta untuk melakukan seleksi fitur. Anda dapat menggunakan teknik seleksi fitur seperti correlation, PCA, atau teknik seleksi fitur lain yang Anda ketahui. NAH PADA TEMPALTE CODE FICTURE SELECTION MENGGUNAKAN CORRELATION YGY.
